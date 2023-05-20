@@ -39,6 +39,8 @@ BAD, (Bar Alignment Dropper) isn't bad, its BAD.
 
 Okaaayyyyy, BAD is just AI that plays Stack it! for you.
 
+The only things it has to work with is the raw pixels and game mechanics.
+
 It waits until the bars are aligned, (or almost so) and the drops it.
 
 <img src="screenshots/bad1.bmp"/>
