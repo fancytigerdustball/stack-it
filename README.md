@@ -1,5 +1,5 @@
 # stack-it
-This is a little game that I made to play a game called Stack it!
+This is a little game that I made called Stack it!
 # Install
 Just clone this repo
 # Use
