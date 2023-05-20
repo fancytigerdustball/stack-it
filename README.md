@@ -1,7 +1,11 @@
 # stack-it
 This is a little game that I made called Stack it!
 # Install
-Just clone this repo
+Just clone this repo and in your terminal run:
+```
+pip install pygame
+pip install time
+```
 # Use
 ### play.py
 
