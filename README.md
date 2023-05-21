@@ -43,6 +43,6 @@ The only things it has to work with is the raw pixels and game mechanics.
 
 It waits until the bars are aligned, (or almost so) and the drops it.
 
-I have seen BAD get 204 points! 😲
+I have seen BAD get 227 points! 😲
 
 <img src="screenshots/bad1.bmp"/>
